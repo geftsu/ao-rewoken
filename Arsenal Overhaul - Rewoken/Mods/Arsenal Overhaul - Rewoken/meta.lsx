@@ -6,16 +6,16 @@
       <children>
         <node id="Dependencies" />
         <node id="ModuleInfo">
-          <attribute id="Author" type="LSWString" value="BODKIN" />
+          <attribute id="Author" type="LSWString" value="BODKIN, Geft" />
           <attribute id="CharacterCreationLevelName" type="FixedString" value="" />
           <attribute id="Description" type="LSWString" value="" />
-          <attribute id="Folder" type="LSWString" value="WeaponBalanceOverhaul" />
+          <attribute id="Folder" type="LSWString" value="Arsenal Overhaul - Rewoken" />
           <attribute id="GMTemplate" type="FixedString" value="" />
           <attribute id="LobbyLevelName" type="FixedString" value="" />
           <attribute id="MD5" type="LSString" value="" />
           <attribute id="MainMenuBackgroundVideo" type="FixedString" value="" />
           <attribute id="MenuLevelName" type="FixedString" value="" />
-          <attribute id="Name" type="FixedString" value="ARSENAL MOD - Weapon Balance Overhaul" />
+          <attribute id="Name" type="FixedString" value="Arsenal Overhaul - Rewoken" />
           <attribute id="NumPlayers" type="uint8" value="4" />
           <attribute id="PhotoBooth" type="FixedString" value="" />
           <attribute id="StartupLevelName" type="FixedString" value="" />
