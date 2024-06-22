@@ -325,7 +325,7 @@ using "WPN_Flail"
 data "RootTemplate" "71f5b932-137f-4e05-9392-e6b921e3aca6"
 data "Boosts" "UnlockSpell(Target_LightningStrike_Myrmidon_Air)"
 data "BoostsOnEquipMainHand" "UnlockSpell(Target_ConcussiveSmash);UnlockSpell(Target_DisarmingAttack_Flail);UnlockSpell(Shout_FullSwing)"
-data "PassivesMainHand" "Overwhelm_Flail"
+data "PassivesMainHand" "AO_Overwhelm_Flail"
 data "Weapon Properties" "Melee"
 
 new entry "WPN_Flail_Air_Myrmidon_ConjureElemental"
