@@ -3,29 +3,29 @@
 	<content contentuid="h9a3d08a8g4e5ag405aga5b7gc59e78a88707" version="1">Unblockable Flail</content>
 	<content contentuid="h749d0e74g4ea8g4015ga092ga5b6aa154b97" version="1">When you miss an &lt;LSTag Tooltip="AttackRoll"&gt;Attack Roll&lt;/LSTag&gt;, you may use a &lt;LSTag Type="ActionResource" Tooltip="ReactionActionPoint"&gt;Reaction&lt;/LSTag&gt; to deal [1] regardless.</content>
 	<content contentuid="h9eb07ea8g1f9ag4743gb2a0ge48e33c6c5a3" version="1">Overwhelming Force</content>
-	<content contentuid="h04ae5d10g438ag4b11g98d7g81bc2e129a28" version="1">When you miss an &lt;LSTag Tooltip="AttackRoll"&gt;Attack Roll&lt;/LSTag&gt;, you may use a &lt;LSTag Type="ActionResource" Tooltip="ReactionActionPoint"&gt;Reaction&lt;/LSTag&gt; to deal [1] regardless. This bonus scales with your &lt;LSTag Tooltip="Strength"&gt;Strength&lt;/LSTag&gt; modifier.</content>
+	<content contentuid="h04ae5d10g438ag4b11g98d7g81bc2e129a28" version="1">When you miss an &lt;LSTag Tooltip="AttackRoll"&gt;Attack Roll&lt;/LSTag&gt;, you may use a &lt;LSTag Type="ActionResource" Tooltip="ReactionActionPoint"&gt;Reaction&lt;/LSTag&gt; to deal [1] regardless. This damage scales with your &lt;LSTag Tooltip="Strength"&gt;Strength&lt;/LSTag&gt; modifier.</content>
 	<content contentuid="hc13b4a70gb3c6g44bagac8egf7f4029e53f9" version="1">Rending Blows</content>
-	<content contentuid="h69763852gfe39g4485ga12agfede9005a4e1" version="1">This weapon heavily damages enemy armor on hits. Reduces enemy &lt;LSTag Tooltip="ArmourClass"&gt;Armour Class&lt;/LSTag&gt; by [1] until their next turn.</content>
+	<content contentuid="h69763852gfe39g4485ga12agfede9005a4e1" version="1">This weapon heavily damages enemy armor on hits, reducing the target's &lt;LSTag Tooltip="ArmourClass"&gt;Armour Class&lt;/LSTag&gt; by [1] until their next turn.</content>
 	<content contentuid="h46c27572g38fbg4cdbgb118g1be8482efd22" version="1">Armor Penetration</content>
-	<content contentuid="hd135faefgaf11g4f61g9ff1gcbbf43ceae22" version="1">This weapon easily defeats armor. Melee attacks ignore piercing &lt;LSTag Tooltip="Resistance"&gt;Resistance&lt;/LSTag&gt; and have +[1] to their &lt;LSTag Tooltip="AttackRoll"&gt;Attack Roll&lt;/LSTag&gt;.</content>
+	<content contentuid="hd135faefgaf11g4f61g9ff1gcbbf43ceae22" version="1">This weapon easily defeats armor. Melee attacks ignore piercing &lt;LSTag Tooltip="Resistance"&gt;Resistance&lt;/LSTag&gt; and have a bonus of [1] to their &lt;LSTag Tooltip="AttackRoll"&gt;Attack Roll&lt;/LSTag&gt;.</content>
 	<content contentuid="h42622180gdad5g4552g9b8bgababa4b94ba6" version="1">Deep Wounds</content>
 	<content contentuid="hde7fd9f6gb578g4187gad2ag609c072c8775" version="1">This weapon causes extreme internal damage on a good hit. Increases the damage of &lt;LSTag Tooltip="CriticalHit"&gt;Critical Hits&lt;/LSTag&gt; by [1].</content>
 	<content contentuid="hb667b784ga913g4e9egb017g21ddd14e1e07" version="1">Disarming Chain</content>
-	<content contentuid="hc50394c1g4c4eg42b4gbd8egd691d9512def" version="1">Chance to disarm opponent by wrapping the flail around their weapon. Deals [1].</content>
+	<content contentuid="hc50394c1g4c4eg42b4gbd8egd691d9512def" version="1">You wrap the flail around your target's weapon, dealing [1] and attempting to disarm them unless they succeed a &lt;LSTag Tooltip="SavingThrow"&gt;Saving Throw&lt;/LSTag&gt;.</content>
 	<content contentuid="h6be32e46g8845g48b9gb021ge9ec9fedc7a8" version="1">Rend</content>
-	<content contentuid="hfce9a995gf4aeg451egb963g084a7627a4e6" version="1">&lt;LSTag Tooltip="ArmourClass"&gt;Armour Class&lt;/LSTag&gt; is reduced by 2 until next turn</content>
+	<content contentuid="hfce9a995gf4aeg451egb963g084a7627a4e6" version="1">&lt;LSTag Tooltip="ArmourClass"&gt;Armour Class&lt;/LSTag&gt; is reduced by [1] until next turn</content>
 	<content contentuid="hce18feb5g806cg4b4agb617g71ac276ea816" version="1">Can Crusher</content>
-	<content contentuid="he7293051ge398g4ee9gad2ag944721cc8ce7" version="1">If enemy is wearing metal armor, deal extra [1] damage on hit.</content>
+	<content contentuid="he7293051ge398g4ee9gad2ag944721cc8ce7" version="1">Attacks made by this weapon deal extra [1] to targets in metal armor.</content>
 	<content contentuid="h885713cag8939g43b9gbb7dg74033f0fc277" version="1">Defensive Parry</content>
-	<content contentuid="h38da201eg3ab2g4d84g84a3ga2c0a95332be" version="1">Parry an incoming melee attack and reduce its damage by [1]+[2]. This effect has a cooldown of [3] turns and scales with double your proficiency bonus</content>
+	<content contentuid="h38da201eg3ab2g4d84g84a3ga2c0a95332be" version="1">You may use your &lt;LSTag Tooltip="Reaction"&gt;Reaction&lt;/LSTag&gt; to parry an incoming melee attack to reduce its damage by [1]+[2]. This effect has a cooldown of [3] turns and scales with double your proficiency bonus.</content>
 	<content contentuid="hd37d17ffg3f9dg4795gb279gc27d154aa0cc" version="1">Nimble Defense</content>
-	<content contentuid="hd7e7fe46gea78g4527g86bdg3742b06866f4" version="1">Roll a &lt;LSTag Tooltip="DifficultyClass"&gt;DC&lt;/LSTag&gt; [1] &lt;LSTag Tooltip="Dexterity"&gt;Dexterity&lt;/LSTag&gt; &lt;LSTag Tooltip="AbilityCheck"&gt;Check&lt;/LSTag&gt; after attacking, on a successful roll raise your &lt;LSTag Tooltip="ArmourClass"&gt;Armour Class&lt;/LSTag&gt; by [2] for [3] turn.</content>
+	<content contentuid="hd7e7fe46gea78g4527g86bdg3742b06866f4" version="1">After attacking roll a &lt;LSTag Tooltip="DifficultyClass"&gt;DC&lt;/LSTag&gt; [1] &lt;LSTag Tooltip="Dexterity"&gt;Dexterity&lt;/LSTag&gt; &lt;LSTag Tooltip="AbilityCheck"&gt;Check&lt;/LSTag&gt;, on success raise your &lt;LSTag Tooltip="ArmourClass"&gt;Armour Class&lt;/LSTag&gt; by [2] for [3] turns.</content>
 	<content contentuid="hd0de29c0gb0cbg4534ga5d5g4c33cb7b8ee3" version="1">Razor Sharp</content>
 	<content contentuid="hbfb1d1b8gb792g4a44ga6f9g751bd862cbda" version="1">This weapon's edge is sharp enough to cut your very soul. On &lt;LSTag Tooltip="CriticalHit"&gt;Critical Hits&lt;/LSTag&gt;, applies &lt;LSTag Type="Status" Tooltip="AO_HEAVY_BLEEDING"&gt;Heavy Bleeding&lt;/LSTag&gt; to target for [1] turns.</content>
 	<content contentuid="h36d43857g7855g4a66g9514g07d9f981eb54" version="1">Bloody Spikes</content>
 	<content contentuid="h11533682gdea2g41c4ga93cgedb0671b84af" version="1">This weapon is covered in spikes that tear foes apart. On &lt;LSTag Tooltip="CriticalHit"&gt;Critical Hits&lt;/LSTag&gt;, applies &lt;LSTag Type="Status" Tooltip="AO_HEAVY_BLEEDING"&gt;Heavy Bleeding&lt;/LSTag&gt; to target for [1] turns.</content>
 	<content contentuid="h20585462g60b3g4f16gaec3g5cd52e4762e0" version="1">Heavy Bleeding</content>
-	<content contentuid="h764e4e3cg67bbg4e07g993ag2d7613215c74" version="1">Target is bleeding profusely.</content>
+	<content contentuid="h764e4e3cg67bbg4e07g993ag2d7613215c74" version="1">Creature is bleeding profusely, taking an additional [1] at the start of each turn and has &lt;LSTag Tooltip="Disadvantage"&gt;Disadvantage&lt;/LSTag&gt; on Constitution &lt;LSTag Tooltip="SavingThrow"&gt;Saving Throws&lt;/LSTag&gt;. &lt;br&gt;&lt;br&gt;Removed by healing.</content>
 	<content contentuid="h786e8a25g0ff1g40b7gb10ag98c7ffe70184" version="1">Extremely Long</content>
 	<content contentuid="hf5f35c50g091eg49c7ga616g0d94a5a5d38f" version="1">Pikes are especially long weapons, boasting the furthest reach of all melee weapons. Useful for supporting allies from relative safety.</content>
 	<content contentuid="hec88d0cdg2240g4ef8g9a87g4eb24061aceb" version="1">Heavy Draw</content>
@@ -35,14 +35,14 @@
 	<content contentuid="h8e2878dcgf3c5g49ffga48eg467dce13f925" version="1">Ease of Use</content>
 	<content contentuid="h5542ade0g12b6g4e0fg8fe9gf90b154cdfcd" version="1">Crossbows utilize a buttstock and trigger assembly, making them far easier to aim accurately than bows. You have [1] bonus to &lt;LSTag Tooltip="AttackRoll"&gt;Attack Rolls&lt;/LSTag&gt; with this weapon.</content>
 	<content contentuid="h7e735fe5gb4dbg4a76gab2fg678682e670bc" version="1">Marksman's Focus</content>
-	<content contentuid="ha04a5a0cg7d12g4fdbga7b6g82a79e121ba1" version="1">You calm yourself and take careful time with your shot. Spend [1] of movement and gain advantage on this attack. This attack has a reduced critical hit requirement of [2]. This can stack.</content>
+	<content contentuid="ha04a5a0cg7d12g4fdbga7b6g82a79e121ba1" version="1">You calm yourself and take careful time with your shot. Spend [1] of &lt;LSTag Tooltip="MovementSpeed"&gt;Movement Speed&lt;/LSTag&gt; and gain &lt;LSTag Tooltip="Advantage"&gt;Advantage&lt;/LSTag&gt; and reduce the &lt;LSTag Tooltip="CriticalHit"&gt;Critical Hit&lt;/LSTag&gt; threshold on the next ranged attack by [2]. This effect can stack with stack.</content>
 	<content contentuid="h98c66591gb4b4g4bc5g847fg4a890a2247d9" version="1">Rapid Fire</content>
-	<content contentuid="h28d93badg0847g42d0gb173g1415adfb4282" version="1">You take multiple arrows in your hand and take a steady stance, preparing an onslaught for your foes. Spend [1] of movement to shoot [2] different targets at once, at reduced damage.</content>
+	<content contentuid="h28d93badg0847g42d0gb173g1415adfb4282" version="1">You take multiple arrows in your hand and take a steady stance, preparing an onslaught for your foes. Spend [1] of &lt;LSTag Tooltip="MovementSpeed"&gt;Movement Speed&lt;/LSTag&gt; to shoot [2] different targets at once, at reduced damage.</content>
 	<content contentuid="hc45be9c9ge02cg4fe4g9813g3b68ce4ec11d" version="1">Skirmisher Tactics</content>
-	<content contentuid="h19e21392g47a9g4f7agbd2bga30afd66ca2f" version="1">Shortbows are light and handy, perfect for hit and run skirmishing. Landing a hit gives you extra [1] of movement speed.</content>
+	<content contentuid="h19e21392g47a9g4f7agbd2bga30afd66ca2f" version="1">Shortbows are light and handy, perfect for hit-and-run tactics. Landing a hit with this weapon gives you extra [1] of &lt;LSTag Tooltip="MovementSpeed"&gt;Movement Speed&lt;/LSTag&gt; this turn.</content>
 	<content contentuid="h0ee483b8g1fe6g49aeg9f78gf6bed2a97ecf" version="1">Skirmishing</content>
 	<content contentuid="h6379491fgf6b6g46c8gbe17g2ee7f191224a" version="1">Overdraw</content>
 	<content contentuid="h3c482937g0071g4361g9b2cg0d3fa2053adf" version="1">[1] penalty to your ranged attack roll, deal an extra [2].</content>
 	<content contentuid="h8c15dbe4gf58fg4158ga50cgd2703c9ad790" version="1">Marksman's Focus</content>
-	<content contentuid="h3881e6c2g9684g477eg95fagb99dc24bd33b" version="1">Gain advantage on this attack. This attack has a reduced critical hit requirement of -4. This can stack.</content>
+	<content contentuid="h3881e6c2g9684g477eg95fagb99dc24bd33b" version="1">You have &lt;LSTag Tooltip="Advantage"&gt;Advantage&lt;/LSTag&gt; and reduced the &lt;LSTag Tooltip="CriticalHit"&gt;Critical Hit&lt;/LSTag&gt; threshold of the next ranged attack by [1].</content>
 </contentList>
