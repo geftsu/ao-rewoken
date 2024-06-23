@@ -18,8 +18,6 @@
 	<content contentuid="he7293051ge398g4ee9gad2ag944721cc8ce7" version="1">If enemy is wearing metal armor, deal extra [1] damage on hit.</content>
 	<content contentuid="h885713cag8939g43b9gbb7dg74033f0fc277" version="1">Defensive Parry</content>
 	<content contentuid="h38da201eg3ab2g4d84g84a3ga2c0a95332be" version="1">Parry an incoming melee attack and reduce its damage by [1]+[2]. This effect has a cooldown of [3] turns and scales with double your proficiency bonus</content>
-	<content contentuid="h0c7e99a2g47b8g48c4gb292gea1b9289ea8d" version="1">Argument. Solved. </content>
-	<content contentuid="h19be7d49ga4a0g415eg909cg7749de3ad9a5" version="1">On &lt;LSTag Tooltip="CriticalHit"&gt;critical hits&lt;/LSTag&gt;, infects target with a poison that saps their life-force. Target takes [1] per turn and has &lt;LSTag Tooltip="Disadvantage"&gt;Disadvantage&lt;/LSTag&gt; on &lt;LSTag Tooltip="AttackRoll"&gt;Attack Rolls&lt;/LSTag&gt;, &lt;LSTag Tooltip="AbilityCheck"&gt;Ability Checks&lt;/LSTag&gt;, and &lt;LSTag Tooltip="SavingThrow"&gt;Saving Throws&lt;/LSTag&gt;. Lasts [2] turns.</content>
 	<content contentuid="hd37d17ffg3f9dg4795gb279gc27d154aa0cc" version="1">Nimble Defense</content>
 	<content contentuid="hd7e7fe46gea78g4527g86bdg3742b06866f4" version="1">Roll a &lt;LSTag Tooltip="DifficultyClass"&gt;DC&lt;/LSTag&gt; [1] &lt;LSTag Tooltip="Dexterity"&gt;Dexterity&lt;/LSTag&gt; &lt;LSTag Tooltip="AbilityCheck"&gt;Check&lt;/LSTag&gt; after attacking, on a successful roll raise your &lt;LSTag Tooltip="ArmourClass"&gt;Armour Class&lt;/LSTag&gt; by [2] for [3] turn.</content>
 	<content contentuid="hd0de29c0gb0cbg4534ga5d5g4c33cb7b8ee3" version="1">Razor Sharp</content>
@@ -28,25 +26,23 @@
 	<content contentuid="h11533682gdea2g41c4ga93cgedb0671b84af" version="1">This weapon is covered in spikes that tear foes apart. On &lt;LSTag Tooltip="CriticalHit"&gt;Critical Hits&lt;/LSTag&gt;, applies &lt;LSTag Type="Status" Tooltip="AO_HEAVY_BLEEDING"&gt;Heavy Bleeding&lt;/LSTag&gt; to target for [1] turns.</content>
 	<content contentuid="h20585462g60b3g4f16gaec3g5cd52e4762e0" version="1">Heavy Bleeding</content>
 	<content contentuid="h764e4e3cg67bbg4e07g993ag2d7613215c74" version="1">Target is bleeding profusely.</content>
-	<content contentuid="h81c2adc4gcf67g4049g8129g1e06741fd05e" version="1">Argument. Solved. </content>
-	<content contentuid="h1834df4ag7912g493fgb260g599b68be9ba1" version="1">Target has &lt;LSTag Tooltip="Disadvantage"&gt;Disadvantage&lt;/LSTag&gt; on &lt;LSTag Tooltip="AttackRoll"&gt;Attack Rolls&lt;/LSTag&gt;, &lt;LSTag Tooltip="AbilityCheck"&gt;Ability Checks&lt;/LSTag&gt;, and &lt;LSTag Tooltip="SavingThrow"&gt;Saving Throws&lt;/LSTag&gt;. Additionally, target takes [1] per turn</content>
 	<content contentuid="h786e8a25g0ff1g40b7gb10ag98c7ffe70184" version="1">Extremely Long</content>
 	<content contentuid="hf5f35c50g091eg49c7ga616g0d94a5a5d38f" version="1">Pikes are especially long weapons, boasting the furthest reach of all melee weapons. Useful for supporting allies from relative safety.</content>
 	<content contentuid="hec88d0cdg2240g4ef8g9a87g4eb24061aceb" version="1">Heavy Draw</content>
 	<content contentuid="h3f3ce948g9984g4f69gb3f1g564639afc2c8" version="1">This bow has an especially heavy draw weight. Both your &lt;LSTag Tooltip="Strength"&gt;Strength&lt;/LSTag&gt; and &lt;LSTag Tooltip="Dexterity"&gt;Dexterity&lt;/LSTag&gt; are important to be effective with this weapon. &lt;LSTag Tooltip="AttackRoll"&gt;Attack&lt;/LSTag&gt; and Damage rolls receive a [1] bonus, which can hurt or help you depending on your &lt;LSTag Tooltip="Strength"&gt;Strength&lt;/LSTag&gt;. &lt;LSTag Tooltip="AttackRoll"&gt;Attack Roll&lt;/LSTag&gt; benefit is capped at [2]. Damage bonus is uncapped.</content>
 	<content contentuid="hcc08a20egaee5g417aga0dbg4d280051f045" version="1">Mighty Overdraw</content>
-	<content contentuid="hd1973465g4732g4646ga7afgc5aa54e0a79a" version="1">You draw the bow way further than normal for a mighty shot that hits with extreme force, at the cost of accuracy. Take a -2 penalty to your attack roll, deal an extra 1d8+4 FORCE damage.</content>
+	<content contentuid="hd1973465g4732g4646ga7afgc5aa54e0a79a" version="1">You draw the bow way further than normal for a mighty shot that hits with extreme force, at the cost of accuracy. Take a [1] penalty to your attack roll, deal an extra [2].</content>
 	<content contentuid="h8e2878dcgf3c5g49ffga48eg467dce13f925" version="1">Ease of Use</content>
 	<content contentuid="h5542ade0g12b6g4e0fg8fe9gf90b154cdfcd" version="1">Crossbows utilize a buttstock and trigger assembly, making them far easier to aim accurately than bows. You have [1] bonus to &lt;LSTag Tooltip="AttackRoll"&gt;Attack Rolls&lt;/LSTag&gt; with this weapon.</content>
 	<content contentuid="h7e735fe5gb4dbg4a76gab2fg678682e670bc" version="1">Marksman's Focus</content>
-	<content contentuid="ha04a5a0cg7d12g4fdbga7b6g82a79e121ba1" version="1">You calm yourself and take careful time with your shot. Spend 6m of movement and gain advantage on this attack. This attack has a reduced critical hit requirement of -4. This can stack.</content>
+	<content contentuid="ha04a5a0cg7d12g4fdbga7b6g82a79e121ba1" version="1">You calm yourself and take careful time with your shot. Spend [1] of movement and gain advantage on this attack. This attack has a reduced critical hit requirement of [2]. This can stack.</content>
 	<content contentuid="h98c66591gb4b4g4bc5g847fg4a890a2247d9" version="1">Rapid Fire</content>
-	<content contentuid="h28d93badg0847g42d0gb173g1415adfb4282" version="1">You take multiple arrows in your hand and take a steady stance, preparing an onslaught for your foes. Spend 9m of movement to shoot 3 different targets at once, at reduced damage.</content>
+	<content contentuid="h28d93badg0847g42d0gb173g1415adfb4282" version="1">You take multiple arrows in your hand and take a steady stance, preparing an onslaught for your foes. Spend [1] of movement to shoot [2] different targets at once, at reduced damage.</content>
 	<content contentuid="hc45be9c9ge02cg4fe4g9813g3b68ce4ec11d" version="1">Skirmisher Tactics</content>
 	<content contentuid="h19e21392g47a9g4f7agbd2bga30afd66ca2f" version="1">Shortbows are light and handy, perfect for hit and run skirmishing. Landing a hit gives you extra [1] of movement speed.</content>
 	<content contentuid="h0ee483b8g1fe6g49aeg9f78gf6bed2a97ecf" version="1">Skirmishing</content>
 	<content contentuid="h6379491fgf6b6g46c8gbe17g2ee7f191224a" version="1">Overdraw</content>
-	<content contentuid="h3c482937g0071g4361g9b2cg0d3fa2053adf" version="1">-3 penalty to your ranged attack roll, deal an extra 1d8+4 FORCE damage.</content>
+	<content contentuid="h3c482937g0071g4361g9b2cg0d3fa2053adf" version="1">[1] penalty to your ranged attack roll, deal an extra [2].</content>
 	<content contentuid="h8c15dbe4gf58fg4158ga50cgd2703c9ad790" version="1">Marksman's Focus</content>
 	<content contentuid="h3881e6c2g9684g477eg95fagb99dc24bd33b" version="1">Gain advantage on this attack. This attack has a reduced critical hit requirement of -4. This can stack.</content>
 </contentList>
