@@ -74,6 +74,3 @@ data "Description" "ha04a5a0cg7d12g4fdbga7b6g82a79e121ba1"
 data "Icon" "Spell_Divination_TrueStrike"
 data "TooltipStatusApply" "ApplyStatus(SELF,MARKSMAN_BONUS,100,1)"
 data "RequirementConditions" "CanAttack(context.Target) and not HasStatus('ENCUMBERED_LIGHT') and not HasStatus('ENCUMBERED_HEAVY') and not HasStatus('ENCUMBERED_MAX')and not Immobilized() and not Tagged('AI_BLOCKWEAPONACTIONS') and IsProficientWithEquippedWeapon(context.Source, true, false)"
-
-
-

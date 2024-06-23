@@ -390,4 +390,3 @@ using "WPN_Warhammer"
 data "RootTemplate" "22baa548-56a4-494c-a9d0-4880d6f1da91"
 data "DefaultBoosts" "WeaponDamage(1d6, Fire)"
 data "Weapon Properties" "Melee;Dippable;Versatile"
-
